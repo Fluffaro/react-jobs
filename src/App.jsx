@@ -10,8 +10,7 @@ const App = () => {
       <Hero />
       <HomeCards />
       <JobListings />
-      <ViewAllJobs/>
-      
+      <ViewAllJobs />
     </>
   );
 };
